@@ -1,15 +1,7 @@
-* [中文版本](./README_zh.md)
 # WeActStudio.STM32F4_64Pin_CoreBoard
-![display](Images/1.png)
 **STM32F405RGT6**  
 Freq:168Mhz Max  
-RAM:192KB,ROM:1MB  
-**STM32F412RET6**  
-Freq:100Mhz Max  
-RAM:256KB,ROM:512KB  
-**STM32F446RET6**  
-Freq:180Mhz Max  
-RAM:128KB,ROM:512KB     
+RAM:192KB,ROM:1MB    
 
 ST Official Website www.st.com
 
